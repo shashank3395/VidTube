@@ -2,6 +2,7 @@
 A video sharing - streaming web app like Youtube.
 
 Basic Features:
+
 ➔ User Login/Signup portal with mail verification
 
 ➔ Reset password using mail
